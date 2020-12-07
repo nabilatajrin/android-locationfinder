@@ -1,2 +1,2 @@
 # android-locationfinder
-This repository contains an android app to find out the location of the device on a map.
+This repository contains an android app to detect the location of the device on the map.
