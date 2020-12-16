@@ -1,7 +1,6 @@
 package com.brishty.locationfinder;
 
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
 /**
